@@ -1,6 +1,20 @@
 # FontChameleon
+Nikhil Barik
 
- Chrome extensiont to replace any font on the webpage with a selected font.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/nerdynikhil/FontChameleon/releases/tag/v1.3)
+[![Contributors](https://img.shields.io/github/contributors/nerdynikhil/FontChameleon.svg)](https://github.com/nerdynikhil/FontChameleon/graphs/contributors)
+[![Open Issues](https://img.shields.io/github/issues/nerdynikhil/FontChameleon.svg)](https://github.com/nerdynikhil/FontChameleon/issues)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/nerdynikhil/FontChameleon.svg)](https://github.com/nerdynikhil/FontChameleon/pulls)
+[![Dependencies](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen.svg)](https://github.com/nerdynikhil/FontChameleon/network/dependencies)
+
+
+<p align="center">
+  <img src="https://github.com/nerdynikhil/FontChameleon/assets/36399086/cadce7d9-7c68-4fd6-9481-4605d1dbb15d" width="50%">
+</p>
+
+
+Chrome extensiont to replace any font on the webpage with a selected font.
 
 FontChameleon is a Chrome extension that allows you to easily replace any font on a webpage with a font of your choice. Whether you're looking to improve readability, experiment with typography, or simply want a change, FontChameleon has you covered! 🎨
 
