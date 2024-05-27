@@ -46,6 +46,8 @@ Chrome browser!
 3. Select the new font you want to use from the "Replace with" dropdown menu. If you want to use a custom font, select "Custom..." and enter the font name.
 4. Click the `Replace` button. All instances of the selected font on the webpage will be replaced with the new font. ✨
 
+https://github.com/nerdynikhil/FontChameleon/assets/36399086/4c36eb4f-426c-40bd-9a8b-80a52483649a
+
 ### Contributing 👨🏻‍💻
 
 ![welcome gif](https://media2.giphy.com/media/kmQREsvNQrhrHdkN7G/giphy.gif?cid=6c09b952so4vudk8rnfuxa0e41poajieehanhgganjf05vh8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
